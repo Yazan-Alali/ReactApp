@@ -13,7 +13,7 @@ const Contacts = () => {
           <div className="app-features">
             <div className="app-feature">
               <div className="feature-icon">
-                <img src="/icons/icons/credit-card.svg" alt="credit card" />
+                <img src="/icons/credit-card.svg" alt="credit card" />
               </div>
               <p>Manage your payments online. Mollis congue egestas egestas fermentum fames.</p>
             </div>

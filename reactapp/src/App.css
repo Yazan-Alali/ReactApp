@@ -1178,7 +1178,7 @@ a {
   padding: 2rem 0;
 
   .container{
-    background-color: var(--background-accent-color);
+    background-color: var(--clr-bg-100);
     border-radius: 8px;
     padding: 5rem;
     display: grid;
